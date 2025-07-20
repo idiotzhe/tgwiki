@@ -26,13 +26,6 @@ TGwiki是Telegram Wiki的缩写，旨在打造一个开放、协作的Telegram�
 - [x] 关键词搜索
 - [x] PWA支持
 
-### 文档维护
-
-- 点击对应页面下方的“编辑此页“
-- Fork储存库，编辑文件
-- 提交Pull Request
-- 管理员审核后将推送更新
-
 
 
 

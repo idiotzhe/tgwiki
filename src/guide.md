@@ -162,8 +162,3 @@ Telegram中文社群（已满）：[@tgcnx](https://t.me/tgcnx)
 
 Telegram 中文圈2：[@tgzhcn](https://t.me/tgzhcn)
 
-::: tip
-
-查找更多Telegram优质频道/群组请访问 [TGNAV - Telegram频道群组导航](https://www.tgnav.org/) 。
-
-:::

@@ -112,8 +112,3 @@ head:
 
 :::
 
-::: tip
-
-在找Telegram机器人推荐？请前往 [Telegram机器人导航](https://www.tgnav.org/robot/) 。
-
-:::
