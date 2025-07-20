@@ -1,6 +1,5 @@
 # TGwiki - Telegram知识库
 
-### 网站地址：[传送门](https://wiki.tgnav.org/)
 
 由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 
