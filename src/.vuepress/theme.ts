@@ -192,9 +192,9 @@ export default hopeTheme({
       },
     },
     docsearch: {
-      appId: 'FLBJDNSJ4H',
-      apiKey: 'f0fde104fdda0ec7d000a2b7e2234200',
-      indexName: 'tgwiki_tgwiki',
+      appId: '',
+      apiKey: '',
+      indexName: '',
       locales: {
         '/': {
           placeholder: '搜索文档',
