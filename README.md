@@ -34,7 +34,6 @@ TGwiki是Telegram Wiki的缩写，旨在打造一个开放、协作的Telegram�
 - 提交Pull Request
 - 管理员审核后将推送更新
 
-### [TGNAV - Telegram频道群组导航](https://www.tgnav.org/)
 
 
 
