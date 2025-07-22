@@ -145,5 +145,9 @@ export default navbar([
       },
     ],
   },
- 
+  /*{
+    text: "TGNAV",
+    icon: "compass",
+    link: "https://www.tgnav.org/"
+  }*/
 ]);

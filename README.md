@@ -1,11 +1,11 @@
 # TGwiki - Telegram知识库
 
+### website address：[dianbaowiki](https://www.dianbaowiki.com)
 
 由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 
 TGwiki是Telegram Wiki的缩写，旨在打造一个开放、协作的Telegram知识库体系。
 
-网站内的`操作演示`和`界面截图`储存在 [@tgwiki/images](https://github.com/tgwiki/images) 。
 
 **Star本仓库支持一下吧！**
 
